@@ -2,7 +2,7 @@
 
 ## 🏝️ Descrição
 
-O **Pygame** é um jogo simples e interativo desenvolvido em **Python**, que roda diretamente no **terminal**.  
+O **Pytesouro** é um jogo simples e interativo desenvolvido em **Python**, que roda diretamente no **terminal**.  
 O objetivo é encontrar o **tesouro escondido** em um tabuleiro 5x5 dentro de **7 tentativas**.  
 A cada jogada, o jogador informa a **linha** e a **coluna** onde acredita que o tesouro esteja escondido.  
 Se errar, o local é marcado com um **X**; se acertar, o símbolo **T** é revelado e o jogo termina com uma vitória!
