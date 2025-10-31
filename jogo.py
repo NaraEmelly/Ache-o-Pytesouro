@@ -38,8 +38,8 @@ def jogar():
   tesouro_linha = random.randint(0, tamanho - 1)
   tesouro_coluna = random.randint(0, tamanho - 1)
 
-  print(Back.BLUE +"\nBem-vindo ao Caça ao Tesouro!")
-  print(Back.BLUE +"Você terá 7 chances para encontrar o tesouro escondido")
+  print(Back.BLUE +"\nPyTesouro!")
+  print(Back.BLUE +"\nVocê terá 7 chances para encontrar o tesouro escondido")
   print(Back.BLUE +"Digite o número da linha e da coluna (0 a 4).")
   mostrar_tabuleiro(tabuleiro)
 
